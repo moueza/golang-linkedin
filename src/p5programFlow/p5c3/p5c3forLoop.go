@@ -35,7 +35,7 @@ func main() {
 			goto endofprogram
 		}
 		if sum > 500 {
-			break
+			break //and continue
 		}
 	}
 
