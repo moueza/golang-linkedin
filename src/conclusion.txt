@@ -1,0 +1,46 @@
+concurrency
+Goroutine (your app, but you can write own) : lightweight synchronized thread managed by runtime
+Channel : typed conduit for messages between goroutines
+Select : lets a goroutine wait for multiple communication operations
+
+
+Web frameworks
+For building REST and other web APIs :
+.Beego: beego.me
+.Martini: martini.codegangsta.io
+.Gorilla:concurrency
+Goroutine (your app, but you can write own) : lightweight synchronized thread managed by runtime
+Channel : typed conduit for messages between goroutines
+Select : lets a goroutine wait for multiple communication operations
+
+
+Web frameworks
+For building REST and other web APIs :
+.Beego: beego.me
+.Martini: martini.codegangsta.io
+.Gorilla: gorillatoolkit.org
+.Gocraft : github.com/gocraft/web
+.Revel: revel.github.io
+
+
+
+Database drivers
+standard db func: database/sql
+driver interfaces: database/sql/driver
+available for relational and NoSQL db
+Many community driven
+   github.com/golang/go/wiki/SQLDrivers
+
+
+Related Language Courses (ancestors)
+C essential training
+C++
+C#
+Java
+
+
+
+
+
+
+
